@@ -17,26 +17,26 @@ const Home = () => (
       </p>
 
       <div className="grid">
-        <a href="https://nextjs.org/docs" className="card">
+        <a href="https://admin.websecurityspecialist/" className="card">
           <h3>Documentation &rarr;</h3>
           <p>Find in-depth information about Next.js features and API.</p>
         </a>
 
-        <a href="https://nextjs.org/learn" className="card">
+        <a href="https://handshake.org" className="card">
           <h3>Learn &rarr;</h3>
-          <p>Learn about Next.js in an interactive course with quizzes!</p>
+          <p>Learn about Handshake!</p>
         </a>
 
         <a
-          href="https://github.com/zeit/next.js/tree/master/examples"
+          href="http://grateful.deadhead/"
           className="card"
         >
           <h3>Examples &rarr;</h3>
-          <p>Discover and deploy boilerplate example Next.js projects.</p>
+          <p>Discover and deploy git pages.</p>
         </a>
 
         <a
-          href="https://vercel.com/new?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="http://bthespirit.getlifted/"
           className="card"
         >
           <h3>Deploy &rarr;</h3>
@@ -49,7 +49,7 @@ const Home = () => (
 
     <footer>
       <a
-        href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+        href="https://protonmail.com" bthespirit777@protonmail.com
         target="_blank"
         rel="noopener noreferrer"
       >
