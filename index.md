@@ -1,5 +1,5 @@
 ## Welcome to [1timefeedomains]
 
-We do buisness right and old fashion style. One [Handshake](https://handshake.org/) and the deal is sealed.
+We do buisness right and old fashion style. One [Handshake](https://handshake.org/) like [HandshakeHereNow](http://hns.handshakeherenow/).
 
-Inquiry [bthespirit777](https://protonmail.com/) for your own Handshake Blockchain Top Level Domains!
+Inquiry [bthespirit777](https://protonmail.com/).
